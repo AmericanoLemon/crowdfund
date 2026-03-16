@@ -22,6 +22,3 @@
 3. Contribute ETH dari akun berbeda
 4. Jika goal tercapai → Creator claim funds
 5. Jika deadline lewat dan goal belum tercapai → Contributor refund
-
-## Lessons Learned
-[Tulis apa yang Anda pelajari dari challenge ini]
